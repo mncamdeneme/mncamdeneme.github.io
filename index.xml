@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mncam</title>
+    <link>/</link>
+    <description>Recent content on mncam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hakkında</title>
+      <link>/about/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Programlamalı bilimlere ve veri madenciliğine merak salmış bir doktor adayı</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covid 19 TR</title>
+      <link>/post/covid19tr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/covid19tr/</guid>
+      <description> htmltools::tags$iframe(title = &amp;quot;My embedded document&amp;quot;, src=&amp;quot;./static/post/index.html&amp;quot;)  </description>
+    </item>
+    
+  </channel>
+</rss>

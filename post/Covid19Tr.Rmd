@@ -1,0 +1,13 @@
+---
+title: "Covid 19 TR"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+htmltools::tags$iframe(title = "My embedded document", src="./static/post/index.html")
+```
+

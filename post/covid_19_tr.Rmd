@@ -1,0 +1,9 @@
+---
+date: "2020.04.21"
+title: "COVID 19 TR"
+output: html_document
+---
+
+[aaa](./static/post/index.html)
+
+
