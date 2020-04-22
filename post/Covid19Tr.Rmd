@@ -8,6 +8,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
-htmltools::tags$iframe(title = "My embedded document", src="./static/post/index.html")
+htmltools::tags$iframe(title = "My embedded document", src="./post/index.html")
 ```
 
